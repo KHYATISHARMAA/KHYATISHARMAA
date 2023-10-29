@@ -11,6 +11,6 @@ SQL • Microsoft Excel • Microsoft Power BI • Data Visualization • Prompt
 	
  I’m currently learning SQL,PYTHON , Prompt engineering and Data visualization
 	
- Contact me -- https://www.linkedin.com/in/khyati-sharma-data/ ----- sharmakhyati245@gmail.com ------ hashnode.com/@sharma21
+ Contact me -- https://www.linkedin.com/in/khyati-sharma-data/ ----- sharmakhyati245@gmail.com
  
 
